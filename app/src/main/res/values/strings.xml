@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bhamashah</string>
+    <string-array name="location">
+        <item>Alwar</item>
+        <item>Jaipur</item>
+        <item>Jodhpur</item>
+        <item>Ajmer</item>
+        <item>Eller</item>
+        <item>Puwar</item>
+        <item>Harda</item>
+        <item>Juari</item>
+    </string-array>
+
+</resources>
